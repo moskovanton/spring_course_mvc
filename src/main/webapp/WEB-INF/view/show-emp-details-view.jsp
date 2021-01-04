@@ -9,7 +9,7 @@
 
 <%--<p>Your name: ${param.employeeName}</p>--%>
 
-<p>Your name: ${nameAttribute} ${description}</p>
+<p>Your name: ${nameAttribute}</p>
 
 </body>
 
