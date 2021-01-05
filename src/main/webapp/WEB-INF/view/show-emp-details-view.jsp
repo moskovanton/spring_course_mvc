@@ -12,10 +12,9 @@
 <%--<p>Your name: ${nameAttribute}</p>--%>
 
 <p>Your name: ${employee.name}</p>
-<br/>
 <p>Your surname: ${employee.surname}</p>
-<br/>
 <p>Your salary: ${employee.salary}</p>
+<p>Your department: ${employee.department}</p>
 
 </body>
 
